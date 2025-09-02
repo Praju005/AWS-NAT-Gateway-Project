@@ -67,5 +67,3 @@ If you get output, the NAT Gateway is working fine. 🎉
 Prajakta Pandaram
 System Engineer | AWS & DevOps Enthusiast
 
-yaml
-Copy code
